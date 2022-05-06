@@ -230,7 +230,7 @@ body { font-size: 1em;}
     .stage { -webkit-transform:scale(0.85); transform:scale(0.85); margin-right:120px; }
 }
   
-{SUBSCRIBE.html
+SUBSCRIBE.html{
   @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i|Poppins:300,400,500,600,700,800,900');
 @import url('https://fonts.googleapis.com/css?family=Forum');
 
@@ -253,7 +253,7 @@ body {
         font-size: 30px;
         font-family: 'Marcellus', serif;
     }
-    .subscribe {
+    SUBSCRIBE.html{
         width: 100%;
         max-width: 600px;
         margin: auto;
