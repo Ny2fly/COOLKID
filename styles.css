@@ -1,9 +1,11 @@
 .website{
   min-height: 100vh;
   width:100%;
-    background-color:rgb(241,156,187);
+    background-color:blue;
   background-image: url(
-}
+    }
+    
+    
 body{
 
  font-style: normal;
