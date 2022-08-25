@@ -1,6 +1,6 @@
 { min-height: 100vh;
   width:100%;
-    background-color:blue;
+    background-color:brown;
     }
     
     
@@ -8,23 +8,23 @@ body{
 
  font-style: normal;
   font-weight: 900;
-  color: black;
+  color: white;
 }
 
 ---------------------------------------------
 
 
 #container{
-background-color:white;
+background-color:light-brown;
 width:600px;
 margin-left:auto;
 margin-right:auto;
 }
 
 #header{
-background-color:orange;
+background-color:green;
 600px;
-color: blue;
+color: white;
 padding:15px;
 }
 
@@ -61,7 +61,7 @@ background-color: tan;
 
 #main-content{
 padding:12px;
-background-color:orange;
+background-color:light-brown;
 }
 
 #main-content{
@@ -89,7 +89,7 @@ font-weight:"bold";
 color:rgb(white)
 }
 
-ul{color:limegreen
+ul{color:white
  }
 dt{color:
 }
@@ -97,7 +97,7 @@ form{color:rgb(255, 28, 28)
 
 #footer{
 font-size:60%;
-color:blue;
+color:white;
 }
   
   
