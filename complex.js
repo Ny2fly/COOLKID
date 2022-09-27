@@ -24,6 +24,8 @@ let b=
          '89',
         ]
         
+console.log(luckynumbers[3]);
+
     
     
 
